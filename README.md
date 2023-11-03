@@ -19,9 +19,9 @@ GPU memory >= 10GB for inference on the Adobe Composition-1K testing set.
 Quantitative results on Adobe Composition-1K
 | Model Name  |   Size   | MSE | SAD | Grad | Conn |
 | :------------: |:-----------:| :----:|:---:|:---:|:---:|
-| [AEMatter] | 195MiB | 2.26 | 17.53 | 4.76 | 12.46 |
-| [AEMatter+TTA] | 195MiB | 2.06 | 16.89 | 4.24 | 11.72 |
-| [AEMatter (RWA)] | 195MiB | - | - | - | - |
+| AEMatter | 195MiB | 2.26 | 17.53 | 4.76 | 12.46 |
+| AEMatter+TTA | 195MiB | 2.06 | 16.89 | 4.24 | 11.72 |
+| AEMatter (RWA) | 195MiB | - | - | - | - |
 
 Quantitative results on Transparent-460
 | Model Name  |   Size   | MSE | SAD | Grad | Conn |
